@@ -1,4 +1,4 @@
-How to use:
+<p><h3>How to use:</h3></p>
 
 Download or clone repository.
 Launch composer install
