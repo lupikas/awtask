@@ -9,7 +9,7 @@
 <p>In browser URL write: http://127.0.0.1:8000/api/products/recommended/vilnius<p>
 <p>"vilnius" can be replaced with any of Lithuania cities</p>
 
-<p><h3>Technology stack</h3></p>
+<p><h3>Technology stack:</h3></p>
 <p>PHP/Laravel</p>
 <p>MySQL</p>
 <p>Faker library for sample products</p>
